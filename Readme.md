@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to add a column if the AutoGenerateColumns property is set to true
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3587/)**
+<!-- run online end -->
 
 
 <p>When the  <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewASPxGridView_AutoGenerateColumnstopic"><u>AutoGenerateColumns</u></a> property is set to true, the only way to add a column to ASPxGridView is to handle the ASPxGridView.DataBound event. To avoid creating duplicate columns, it is necessary to add a condition that will check whether a column already exists. For example:</p>
