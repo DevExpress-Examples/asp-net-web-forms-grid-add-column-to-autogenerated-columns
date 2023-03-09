@@ -8,7 +8,7 @@ This example demonstrates how to add a column to the grid when the AutoGenerateC
 
 ## Overview
 
-When the [AutoGenerateColumns](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView.AutoGenerateColumns) property is set to `true`, handle the [DataBound](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDataWebControlBase.DataBound) event add a column to the [Grid View](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control. Before you add a column, check whether this column already exists to avoid duplicate columns.
+When the [AutoGenerateColumns](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView.AutoGenerateColumns) property is set to `true`, handle the [DataBound](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDataWebControlBase.DataBound) event to add a column to the [Grid View](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control. Before you add a column, check whether this column already exists to avoid duplicate columns.
 
 ```aspx
 <dx:ASPxGridView ID="ASPxGridView1" runat="server" AutoGenerateColumns="True" 
