@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to add a column if the AutoGenerateColumns property is set to true
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3587/)**
+**[[Run Online]](https://codecentral.devexpress.com/128533248/)**
 <!-- run online end -->
 
 
