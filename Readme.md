@@ -2,7 +2,7 @@
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e3587/)**
 <!-- run online end -->
-This example demonstrates how to add a column to the grid when the AutoGenerateColumns is enabled.
+This example demonstrates how to add a column to the grid when the AutoGenerateColumns property is enabled.
 
 ![addColumn](images/addColumn.png)
 
