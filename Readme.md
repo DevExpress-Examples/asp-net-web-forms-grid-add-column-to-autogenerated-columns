@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to add a column if the AutoGenerateColumns property is set to true
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128533248/)**
-<!-- run online end -->
 This example demonstrates how to add a column to the grid when the AutoGenerateColumns property is enabled.
 
 ![addColumn](images/addColumn.png)
